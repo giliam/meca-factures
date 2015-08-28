@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Local settings
+mecafactures/parameters.py
+mecafactures/settings_local.py
+static/*
+
+# Media dir
+media/*
+!media/readme.md
